@@ -761,7 +761,7 @@ h3 {
   }
 
   .hero {
-    background-image: url(image/hero-img-midhi.jpg);
+    background-image: url('image/hero-img-midhi.jpg');
     padding: 10vw 0 9.6vw 0;
     margin-bottom: 11px;
   }
