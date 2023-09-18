@@ -240,7 +240,7 @@ h3 {
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url('image/hero-img.jpg');
+  background-image: url(../image/hero-img.jpg);
   padding: 7.5vw 0 7.7vw 0;
   margin-bottom: 9px;
 }
@@ -318,7 +318,7 @@ h3 {
 /* GALLARY */
 .gallery {
   padding: 80px 0 70px;
-  background: url('image/gallery-bg.jpg') center / 100% auto no-repeat;
+  background: url(/image/gallery-bg.jpg) center / 100% auto no-repeat;
   margin-bottom: 80px;
 }
 
@@ -394,7 +394,7 @@ h3 {
   bottom: 0;
   left: 0;
   opacity: 0;
-  background-image: url('image/checked.svg');
+  background-image: url('/image/checked.svg');
   background-repeat: no-repeat;
   background-position: center center;
   transition: opasity .2s ease-in-out,
@@ -761,7 +761,7 @@ h3 {
   }
 
   .hero {
-    background-image: url('image/hero-img-midhi.jpg');
+    background-image: url(/image/hero-img-midhi.jpg);
     padding: 10vw 0 9.6vw 0;
     margin-bottom: 11px;
   }
@@ -784,7 +784,7 @@ h3 {
   }
 
   .gallery {
-    background-image: url('image/gallery-bg-midhi.jpg');
+    background-image: url(/image/gallery-bg-midhi.jpg);
     padding-bottom: 72px;
   }
 
@@ -955,7 +955,7 @@ h3 {
   }
 
   .hero {
-    background-image: url('image/hero-img-midlow.jpg');
+    background-image: url(/image/hero-img-midlow.jpg);
     padding: 11.5vw 0 11vw;
     margin-bottom: 8px;
   }
@@ -973,7 +973,7 @@ h3 {
   }
 
   .gallery {
-    background-image: url('image/gallery-bg-midlow.jpg');
+    background-image: url(/image/gallery-bg-midlow.jpg);
     margin-bottom: 77px;
   }
 
@@ -1112,7 +1112,7 @@ h3 {
   }
 
   .hero {
-    background-image: url('image/hero-img-low.jpg');
+    background-image: url(/image/hero-img-low.jpg);
     padding: 15.5vw 0;
   }
 
@@ -1169,7 +1169,7 @@ h3 {
   .gallery {
     padding: 37px 0 40px;
     margin-bottom: 37px;
-    background-image: url('image/gallery-bg-low.jpg');
+    background-image: url(/image/gallery-bg-low.jpg);
   }
 
   .gallery__check {
